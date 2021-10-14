@@ -1,5 +1,5 @@
-# CITS2200Project2
-An interface to implement the CITS2200 DSA Project(2)
+# CITS2200Project
+An interface to implement the CITS2200 DSA Project
 
 This project implements four functions. 
 

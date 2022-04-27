@@ -1,4 +1,4 @@
-# CITS2200Project
+# DSA_Project
 An interface to implement the a DSA Project in semester 1, 2021. 
 
 This project implements four functions. 
